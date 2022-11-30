@@ -1,27 +1,27 @@
-# Templates.do - Worker Templates API 
+# screaming.snake.case.do - SCREAMING_SNAKE_CASE_KEYS Transformation API
 
-Explore the API at: <https://templates.do/api>
+Explore the API at: <https://screaming.snake.case.do/api>
 
 ```json
 {
   "api": {
     "icon": "🚀",
-    "name": "templates.do",
-    "description": "Cloudflare Worker Template",
-    "url": "https://templates.do/api",
-    "type": "https://apis.do/templates",
+    "name": "screaming.snake.case.do",
+    "description": "SCREAMING_SNAKE_CASE_KEYS Transformation API",
+    "url": "https://screaming.snake.case.do/api",
+    "type": "https://apis.do/transformation",
     "endpoints": {
-      "listCategories": "https://templates.do/api",
-      "getCategory": "https://templates.do/:type"
+      "listCategories": "https://screaming.snake.case.do/api",
+      "getCategory": "https://screaming.snake.case.do/:type"
     },
-    "site": "https://templates.do",
-    "login": "https://templates.do/login",
-    "signup": "https://templates.do/signup",
-    "subscribe": "https://templates.do/subscribe",
-    "repo": "https://github.com/drivly/templates.do"
+    "site": "https://screaming.snake.case.do",
+    "login": "https://screaming.snake.case.do/login",
+    "signup": "https://screaming.snake.case.do/signup",
+    "subscribe": "https://screaming.snake.case.do/subscribe",
+    "repo": "https://github.com/drivly/screaming.snake.case.do"
   }
   "examples": {
-    "listItems": "https://templates.do/worker"
+    "listItems": "https://screaming.snake.case.do/worker"
   }
 }
 ```
