@@ -1,5 +1,5 @@
-name = "templates-do"
-# route = { pattern = "*/*", zone_name = "templates.do" }
+name = "screaming-snake-case-do"
+route = { pattern = "screaming.snake.case/*", zone_name = "case.do" }
 main = "worker.js"
 usage_model = "unbound"
 compatibility_date = "2022-09-23"
